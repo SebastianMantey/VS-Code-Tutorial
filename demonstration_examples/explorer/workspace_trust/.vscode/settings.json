@@ -1,0 +1,7 @@
+{
+    "editor.renderControlCharacters": false,
+    "editor.unicodeHighlight.allowedCharacters": {
+        "‮": true,
+        "‬": true
+    },
+}
